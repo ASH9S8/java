@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Facto {
+public class Factorial2 {
 
     public static long facto(long num)
     {
